@@ -1,0 +1,1012 @@
+games:
+  th06:
+    color: '#FF191B'
+    title:
+      en: the Embodiment of Scarlet Devil
+      ja: 東方紅魔郷
+      zh: 东方红魔乡
+      ru: Воплощение Алого Дьявола
+      de: Verkörperung des Scharlachroten Teufels
+      es: La encarnación del Diablo Escarlata
+    short_title:
+      en: EoSD
+      ja: 紅
+      zh: 红
+      ru: EoSD
+      de: EoSD
+      es: EoSD
+    shots:
+      reimu_a:
+        en: Reimu A
+        ja: 霊夢A
+        zh: 灵梦A
+        ru: Reimu A
+        de: Reimu A
+        es: Reimu A
+      reimu_b:
+        en: Reimu B
+        ja: 霊夢B
+        zh: 灵梦B
+        ru: Reimu B
+        de: Reimu B
+        es: Reimu B
+      marisa_a:
+        en: Marisa A
+        ja: 魔理沙A
+        zh: 魔理沙A
+        ru: Marisa A
+        de: Marisa A
+        es: Marisa A
+      marisa_b:
+        en: Marisa B
+        ja: 魔理沙B
+        zh: 魔理沙B
+        ru: Marisa B
+        de: Marisa B
+        es: Marisa B
+  th07:
+    color: '#5BBE9A'
+    title:
+      en: Perfect Cherry Blossom
+      ja: 東方妖々夢
+      zh: 东方妖妖梦
+      ru: Идеальное Цветение Вишни
+      de: Perfekte Kirschblüte
+      es: Flor de Cerezo Perfecta
+    short_title:
+      en: PCB
+      ja: 妖
+      zh: 妖
+      ru: PCB
+      de: PCB
+      es: PCB
+    shots:
+      reimu_a:
+        en: Reimu A
+        ja: 霊夢A
+        zh: 灵梦A
+        ru: Reimu A
+        de: Reimu A
+        es: Reimu A
+      reimu_b:
+        en: Reimu B
+        ja: 霊夢B
+        zh: 灵梦B
+        ru: Reimu B
+        de: Reimu B
+        es: Reimu B
+      marisa_a:
+        en: Marisa A
+        ja: 魔理沙A
+        zh: 魔理沙A
+        ru: Marisa A
+        de: Marisa A
+        es: Marisa A
+      marisa_b:
+        en: Marisa B
+        ja: 魔理沙B
+        zh: 魔理沙B
+        ru: Marisa B
+        de: Marisa B
+        es: Marisa B
+      sakuya_a:
+        en: Sakuya A
+        ja: 咲夜A
+        zh: 咲夜A
+        ru: Sakuya A
+        de: Sakuya A
+        es: Sakuya A
+      sakuya_b:
+        en: Sakuya B
+        ja: 咲夜B
+        zh: 咲夜B
+        ru: Sakuya B
+        de: Sakuya B
+        es: Sakuya B
+  th08:
+    color: '#6A4C93'
+    title:
+      en: Imperishable Night
+      ja: 東方永夜抄
+      zh: 东方永夜抄
+      ru: Бессмертная Ночь
+      de: Unvergängliche Nacht
+      es: Noche Imperecedera
+    short_title:
+      en: IN
+      ja: 永
+      zh: 永
+      ru: IN
+      de: IN
+      es: IN
+    shots:
+      reimu_yukari:
+        en: Reimu & Yukari
+        ja: 霊夢＆紫
+        zh: 灵梦＆紫
+        ru: Reimu & Yukari
+        de: Reimu & Yukari
+        es: Reimu & Yukari
+      marisa_alice:
+        en: Marisa & Alice
+        ja: 魔理沙＆アリス
+        zh: 魔理沙＆爱丽丝
+        ru: Marisa & Alice
+        de: Marisa & Alice
+        es: Marisa & Alice
+      sakuya_remilia:
+        en: Sakuya & Remilia
+        ja: 咲夜＆レミリア
+        zh: 咲夜＆蕾米莉亚
+        ru: Sakuya & Remilia
+        de: Sakuya & Remilia
+        es: Sakuya & Remilia
+      youmu_yuyuko:
+        en: Youmu & Yuyuko
+        ja: 妖夢＆幽々子
+        zh: 妖梦＆幽幽子
+        ru: Youmu & Yuyuko
+        de: Youmu & Yuyuko
+        es: Youmu & Yuyuko
+      reimu:
+        en: Reimu
+        ja: 霊夢
+        zh: 灵梦
+        ru: Reimu
+        de: Reimu
+        es: Reimu
+      yukari:
+        en: Yukari
+        ja: 紫
+        zh: 紫
+        ru: Yukari
+        de: Yukari
+        es: Yukari
+      marisa:
+        en: Marisa
+        ja: 魔理沙
+        zh: 魔理沙
+        ru: Marisa
+        de: Marisa
+        es: Marisa
+      alice:
+        en: Alice
+        ja: アリス
+        zh: 爱丽丝
+        ru: Alice
+        de: Alice
+        es: Alice
+      sakuya:
+        en: Sakuya
+        ja: 咲夜
+        zh: 咲夜
+        ru: Sakuya
+        de: Sakuya
+        es: Sakuya
+      remilia:
+        en: Remilia
+        ja: レミリア
+        zh: 蕾米莉亚
+        ru: Remilia
+        de: Remilia
+        es: Remilia
+      youmu:
+        en: Youmu
+        ja: 妖夢
+        zh: 妖梦
+        ru: Youmu
+        de: Youmu
+        es: Youmu
+      yuyuko:
+        en: Yuyuko
+        ja: 幽々子
+        zh: 幽幽子
+        ru: Yuyuko
+        de: Yuyuko
+        es: Yuyuko
+  th09:
+    color: '#E75A7C'
+    title:
+      en: Phantasmagoria of Flower View
+      ja: 東方花映塚
+      zh: 东方花映冢
+      ru: Фантасмагория Цветочного Вида
+      de: Phantasmagorie der Blumenansicht
+      es: Fantasmaría de la Vista Floral
+    short_title:
+      en: PoFV
+      ja: 花
+      zh: 花
+      ru: PoFV
+      de: PoFV
+      es: PoFV
+    shots:
+      reimu:
+        en: Reimu
+        ja: 霊夢
+        zh: 灵梦
+        ru: Reimu
+        de: Reimu
+        es: Reimu
+      marisa:
+        en: Marisa
+        ja: 魔理沙
+        zh: 魔理沙
+        ru: Marisa
+        de: Marisa
+        es: Marisa
+      sakuya:
+        en: Sakuya
+        ja: 咲夜
+        zh: 咲夜
+        ru: Sakuya
+        de: Sakuya
+        es: Sakuya
+      youmu:
+        en: Youmu
+        ja: 妖夢
+        zh: 妖梦
+        ru: Youmu
+        de: Youmu
+        es: Youmu
+      reisen:
+        en: Reisen
+        ja: 鈴仙
+        zh: 铃仙
+        ru: Reisen
+        de: Reisen
+        es: Reisen
+      cirno:
+        en: Cirno
+        ja: チルノ
+        zh: 琪露诺
+        ru: Cirno
+        de: Cirno
+        es: Cirno
+      mystia:
+        en: Mystia
+        ja: ミスティア
+        zh: 米斯蒂娅
+        ru: Mystia
+        de: Mystia
+        es: Mystia
+      tewi:
+        en: Tewi
+        ja: てゐ
+        zh: 帝
+        ru: Tewi
+        de: Tewi
+        es: Tewi
+      aya:
+        en: Aya
+        ja: 文
+        zh: 文
+        ru: Aya
+        de: Aya
+        es: Aya
+      medicine:
+        en: Medicine
+        ja: メディスン
+        zh: 梅蒂欣
+        ru: Medicine
+        de: Medicine
+        es: Medicine
+      yuuka:
+        en: Yuuka
+        ja: 幽香
+        zh: 幽香
+        ru: Yuuka
+        de: Yuuka
+        es: Yuuka
+      komachi:
+        en: Komachi
+        ja: 小町
+        zh: 小町
+        ru: Komachi
+        de: Komachi
+        es: Komachi
+      eiki:
+        en: Eiki
+        ja: 映姫
+        zh: 映姫
+        ru: Eiki
+        de: Eiki
+        es: Eiki
+  th10:
+    color: '#3E8E41'
+    title:
+      en: Mountain of Faith
+      ja: 東方風神録
+      zh: 东方风神录
+      ru: Гора Веры
+      de: Berg des Glaubens
+      es: Montaña de la Fe
+    short_title:
+      en: MoF
+      ja: 風
+      zh: 风
+      ru: MoF
+      de: MoF
+      es: MoF
+    shots:
+      reimu_a:
+        en: Reimu A
+        ja: 霊夢A
+        zh: 灵梦A
+        ru: Reimu A
+        de: Reimu A
+        es: Reimu A
+      reimu_b:
+        en: Reimu B
+        ja: 霊夢B
+        zh: 灵梦B
+        ru: Reimu B
+        de: Reimu B
+        es: Reimu B
+      reimu_c:
+        en: Reimu C
+        ja: 霊夢C
+        zh: 灵梦C
+        ru: Reimu C
+        de: Reimu C
+        es: Reimu C
+      marisa_a:
+        en: Marisa A
+        ja: 魔理沙A
+        zh: 魔理沙A
+        ru: Marisa A
+        de: Marisa A
+        es: Marisa A
+      marisa_b:
+        en: Marisa B
+        ja: 魔理沙B
+        zh: 魔理沙B
+        ru: Marisa B
+        de: Marisa B
+        es: Marisa B
+      marisa_c:
+        en: Marisa C
+        ja: 魔理沙C
+        zh: 魔理沙C
+        ru: Marisa C
+        de: Marisa C
+        es: Marisa C
+  th11:
+    color: '#B04A3A'
+    title:
+      en: Subterranean Animism
+      ja: 東方地霊殿
+      zh: 东方地灵殿
+      ru: Подземный Анимизм
+      de: Unterirdischer Animismus
+      es: Animismo Subterráneo
+    short_title:
+      en: SA
+      ja: 地
+      zh: 地
+      ru: SA
+      de: SA
+      es: SA
+    shots:
+      reimu_a:
+        en: Reimu A
+        ja: 霊夢A
+        zh: 灵梦A
+        ru: Reimu A
+        de: Reimu A
+        es: Reimu A
+      reimu_b:
+        en: Reimu B
+        ja: 霊夢B
+        zh: 灵梦B
+        ru: Reimu B
+        de: Reimu B
+        es: Reimu B
+      reimu_c:
+        en: Reimu C
+        ja: 霊夢C
+        zh: 灵梦C
+        ru: Reimu C
+        de: Reimu C
+        es: Reimu C
+      marisa_a:
+        en: Marisa A
+        ja: 魔理沙A
+        zh: 魔理沙A
+        ru: Marisa A
+        de: Marisa A
+        es: Marisa A
+      marisa_b:
+        en: Marisa B
+        ja: 魔理沙B
+        zh: 魔理沙B
+        ru: Marisa B
+        de: Marisa B
+        es: Marisa B
+      marisa_c:
+        en: Marisa C
+        ja: 魔理沙C
+        zh: 魔理沙C
+        ru: Marisa C
+        de: Marisa C
+        es: Marisa C
+  th12:
+    color: '#437FC7'
+    title:
+      en: Undefined Fantastic Object
+      ja: 東方星蓮船
+      zh: 东方星莲船
+      ru: Неопознанный Фантастический Объект
+      de: Undefiniertes Fantastisches Objekt
+      es: Objeto Fantástico No Identificado
+    short_title:
+      en: UFO
+      ja: 星
+      zh: 星
+      ru: UFO
+      de: UFO
+      es: UFO
+    shots:
+      reimu_a:
+        en: Reimu A
+        ja: 霊夢A
+        zh: 灵梦A
+        ru: Reimu A
+        de: Reimu A
+        es: Reimu A
+      reimu_b:
+        en: Reimu B
+        ja: 霊夢B
+        zh: 灵梦B
+        ru: Reimu B
+        de: Reimu B
+        es: Reimu B
+      reimu_c:
+        en: Reimu C
+        ja: 霊夢C
+        zh: 灵梦C
+        ru: Reimu C
+        de: Reimu C
+        es: Reimu C
+      marisa_a:
+        en: Marisa A
+        ja: 魔理沙A
+        zh: 魔理沙A
+        ru: Marisa A
+        de: Marisa A
+        es: Marisa A
+      marisa_b:
+        en: Marisa B
+        ja: 魔理沙B
+        zh: 魔理沙B
+        ru: Marisa B
+        de: Marisa B
+        es: Marisa B
+      marisa_c:
+        en: Marisa C
+        ja: 魔理沙C
+        zh: 魔理沙C
+        ru: Marisa C
+        de: Marisa C
+        es: Marisa C
+      sanae_a:
+        en: Sanae A
+        ja: 早苗A
+        zh: 早苗A
+        ru: Sanae A
+        de: Sanae A
+        es: Sanae A
+      sanae_b:
+        en: Sanae B
+        ja: 早苗B
+        zh: 早苗B
+        ru: Sanae B
+        de: Sanae B
+        es: Sanae B
+  th13:
+    color: '#A474C1'
+    title:
+      en: Ten Desires
+      ja: 東方神霊廟
+      zh: 东方神灵庙
+      ru: Десять Желаний
+      de: Zehn Wünsche
+      es: Diez Deseos
+    short_title:
+      en: TD
+      ja: 神
+      zh: 神
+      ru: TD
+      de: TD
+      es: TD
+    shots:
+      reimu:
+        en: Reimu
+        ja: 霊夢
+        zh: 灵梦
+        ru: Reimu
+        de: Reimu
+        es: Reimu
+      marisa:
+        en: Marisa
+        ja: 魔理沙
+        zh: 魔理沙
+        ru: Marisa
+        de: Marisa
+        es: Marisa
+      sanae:
+        en: Sanae
+        ja: 早苗
+        zh: 早苗
+        ru: Sanae
+        de: Sanae
+        es: Sanae
+      youmu:
+        en: Youmu
+        ja: 妖夢
+        zh: 妖梦
+        ru: Youmu
+        de: Youmu
+        es: Youmu
+  th14:
+    color: '#D8483E'
+    title:
+      en: Double Dealing Character
+      ja: 東方輝針城
+      zh: 东方辉针城
+      ru: Двойственный Характер
+      de: Doppelzüngiger Charakter
+      es: Personaje de Doble Trato
+    short_title:
+      en: DDC
+      ja: 輝
+      zh: 辉
+      ru: DDC
+      de: DDC
+      es: DDC
+    shots:
+      reimu_a:
+        en: Reimu A
+        ja: 霊夢A
+        zh: 灵梦A
+        ru: Reimu A
+        de: Reimu A
+        es: Reimu A
+      reimu_b:
+        en: Reimu B
+        ja: 霊夢B
+        zh: 灵梦B
+        ru: Reimu B
+        de: Reimu B
+        es: Reimu B
+      marisa_a:
+        en: Marisa A
+        ja: 魔理沙A
+        zh: 魔理沙A
+        ru: Marisa A
+        de: Marisa A
+        es: Marisa A
+      marisa_b:
+        en: Marisa B
+        ja: 魔理沙B
+        zh: 魔理沙B
+        ru: Marisa B
+        de: Marisa B
+        es: Marisa B
+      sakuya_a:
+        en: Sakuya A
+        ja: 咲夜A
+        zh: 咲夜A
+        ru: Sakuya A
+        de: Sakuya A
+        es: Sakuya A
+      sakuya_b:
+        en: Sakuya B
+        ja: 咲夜B
+        zh: 咲夜B
+        ru: Sakuya B
+        de: Sakuya B
+        es: Sakuya B
+  th15:
+    color: '#2E5AA7'
+    title:
+      en: Legacy of Lunatic Kingdom
+      ja: 東方紺珠伝
+      zh: 东方绀珠传
+      ru: Наследие Лунного Королевства
+      de: Vermächtnis des Wahnsinnigen Königreichs
+      es: Legado del Reino Lunático
+    short_title:
+      en: LoLK
+      ja: 紺
+      zh: 绀
+      ru: LoLK
+      de: LoLK
+      es: LoLK
+    shots:
+      reimu:
+        en: Reimu
+        ja: 霊夢
+        zh: 灵梦
+        ru: Reimu
+        de: Reimu
+        es: Reimu
+      marisa:
+        en: Marisa
+        ja: 魔理沙
+        zh: 魔理沙
+        ru: Marisa
+        de: Marisa
+        es: Marisa
+      sanae:
+        en: Sanae
+        ja: 早苗
+        zh: 早苗
+        ru: Sanae
+        de: Sanae
+        es: Sanae
+      reisen:
+        en: Reisen
+        ja: 鈴仙
+        zh: 铃仙
+        ru: Reisen
+        de: Reisen
+        es: Reisen
+  th16:
+    color: '#E6A52E'
+    title:
+      en: Hidden Star in Four Seasons
+      ja: 東方天空璋
+      zh: 东方天空璋
+      ru: Скрытая Звезда в Четырёх Временах Года
+      de: Verborgener Stern in vier Jahreszeiten
+      es: Estrella Oculta en Cuatro Estaciones
+    short_title:
+      en: HSiFS
+      ja: 天
+      zh: 天
+      ru: HSiFS
+      de: HSiFS
+      es: HSiFS
+    shots:
+      reimu:
+        en: Reimu
+        ja: 霊夢
+        zh: 灵梦
+        ru: Reimu
+        de: Reimu
+        es: Reimu
+      cirno:
+        en: Cirno
+        ja: チルノ
+        zh: 琪露诺
+        ru: Cirno
+        de: Cirno
+        es: Cirno
+      aya:
+        en: Aya
+        ja: 文
+        zh: 文
+        ru: Aya
+        de: Aya
+        es: Aya
+      marisa:
+        en: Marisa
+        ja: 魔理沙
+        zh: 魔理沙
+        ru: Marisa
+        de: Marisa
+        es: Marisa
+  th17:
+    color: '#8054A5'
+    title:
+      en: Wily Beast and Weakest Creature
+      ja: 東方鬼形獣
+      zh: 东方鬼形兽
+      ru: Хитрый Зверь и Слабейшее Существо
+      de: Listiges Tier und Schwächstes Geschöpf
+      es: Bestia Astuta y Criatura Más Débil
+    short_title:
+      en: WBaWC
+      ja: 鬼
+      zh: 鬼
+      ru: WBaWC
+      de: WBaWC
+      es: WBaWC
+    shots:
+      reimu_w:
+        en: Reimu W
+        ja: 霊夢W
+        zh: 灵梦W
+        ru: Reimu W
+        de: Reimu W
+        es: Reimu W
+      marisa_w:
+        en: Marisa W
+        ja: 魔理沙W
+        zh: 魔理沙W
+        ru: Marisa W
+        de: Marisa W
+        es: Marisa W
+      youmu_w:
+        en: Youmu W
+        ja: 妖夢W
+        zh: 妖梦W
+        ru: Youmu W
+        de: Youmu W
+        es: Youmu W
+      reimu_o:
+        en: Reimu O
+        ja: 霊夢O
+        zh: 灵梦O
+        ru: Reimu O
+        de: Reimu O
+        es: Reimu O
+      marisa_o:
+        en: Marisa O
+        ja: 魔理沙O
+        zh: 魔理沙O
+        ru: Marisa O
+        de: Marisa O
+        es: Marisa O
+      youmu_o:
+        en: Youmu O
+        ja: 妖夢O
+        zh: 妖梦O
+        ru: Youmu O
+        de: Youmu O
+        es: Youmu O
+      reimu_eagle:
+        en: Reimu E
+        ja: 霊夢E
+        zh: 灵梦E
+        ru: Reimu E
+        de: Reimu E
+        es: Reimu E
+      marisa_eagle:
+        en: Marisa Eagle
+        ja: 魔理沙E
+        zh: 魔理沙E
+        ru: Marisa Eagle
+        de: Marisa Eagle
+        es: Marisa Eagle
+      youmu_eagle:
+        en: Youmu Eagle
+        ja: 妖夢E
+        zh: 妖梦E
+        ru: Youmu Eagle
+        de: Youmu Eagle
+        es: Youmu Eagle
+  th18:
+    color: '#D7A928'
+    title:
+      en: Unconnected Marketeers
+      ja: 東方虹龍洞
+      zh: 东方虹龙洞
+      ru: Несвязанные Торговцы
+      de: Unverbundene Marketeers
+      es: Mercaderes Desconectados
+    short_title:
+      en: UM
+      ja: 虹
+      zh: 虹
+      ru: UM
+      de: UM
+      es: UM
+    shots:
+      reimu:
+        en: Reimu
+        ja: 霊夢
+        zh: 灵梦
+        ru: Reimu
+        de: Reimu
+        es: Reimu
+      marisa:
+        en: Marisa
+        ja: 魔理沙
+        zh: 魔理沙
+        ru: Marisa
+        de: Marisa
+        es: Marisa
+      sanae:
+        en: Sanae
+        ja: 早苗
+        zh: 早苗
+        ru: Sanae
+        de: Sanae
+        es: Sanae
+      sakuya:
+        en: Sakuya
+        ja: 咲夜
+        zh: 咲夜
+        ru: Sakuya
+        de: Sakuya
+        es: Sakuya
+  th20:
+    color: '#6C9ED4'
+    title:
+      en: Fossilized Wonders
+      ja: 東方錦上京
+      zh: 东方锦上京
+      ru: Ископаемые Чудеса
+      de: Versteinerte Wunder
+      es: Maravillas Fosilizadas
+    short_title:
+      en: FW
+      ja: 錦
+      zh: 锦
+      ru: FW
+      de: FW
+      es: FW
+    shots:
+      reimu_r1:
+        en: Reimu R1
+        ja: 霊夢赤1
+        zh: 灵梦红1
+        ru: Reimu R1
+        de: Reimu R1
+        es: Reimu R1
+      reimu_r2:
+        en: Reimu R2
+        ja: 霊夢赤2
+        zh: 灵梦红2
+        ru: Reimu R2
+        de: Reimu R2
+        es: Reimu R2
+      reimu_b1:
+        en: Reimu B1
+        ja: 霊夢青1
+        zh: 灵梦蓝1
+        ru: Reimu B1
+        de: Reimu B1
+        es: Reimu B1
+      reimu_b2:
+        en: Reimu B2
+        ja: 霊夢青2
+        zh: 灵梦蓝2
+        ru: Reimu B2
+        de: Reimu B2
+        es: Reimu B2
+      reimu_y1:
+        en: Reimu Y1
+        ja: 霊夢黄1
+        zh: 灵梦黄1
+        ru: Reimu Y1
+        de: Reimu Y1
+        es: Reimu Y1
+      reimu_y2:
+        en: Reimu Y2
+        ja: 霊夢黄2
+        zh: 灵梦黄2
+        ru: Reimu Y2
+        de: Reimu Y2
+        es: Reimu Y2
+      reimu_g1:
+        en: Reimu G1
+        ja: 霊夢緑1
+        zh: 灵梦绿1
+        ru: Reimu G1
+        de: Reimu G1
+        es: Reimu G1
+      reimu_g2:
+        en: Reimu G2
+        ja: 霊夢緑2
+        zh: 灵梦绿2
+        ru: Reimu G2
+        de: Reimu G2
+        es: Reimu G2
+      marisa_r1:
+        en: Marisa R1
+        ja: 魔理沙赤1
+        zh: 魔理沙红1
+        ru: Marisa R1
+        de: Marisa R1
+        es: Marisa R1
+      marisa_r2:
+        en: Marisa R2
+        ja: 魔理沙赤2
+        zh: 魔理沙红2
+        ru: Marisa R2
+        de: Marisa R2
+        es: Marisa R2
+      marisa_b1:
+        en: Marisa B1
+        ja: 魔理沙青1
+        zh: 魔理沙蓝1
+        ru: Marisa B1
+        de: Marisa B1
+        es: Marisa B1
+      marisa_b2:
+        en: Marisas B2
+        ja: Marisa青2
+        zh: 魔理沙蓝2
+        ru: Marisa B2
+        de: Marisa B2
+        es: Marisa B2
+      marisa_y1:
+        en: Marisa Y1
+        ja: 魔理沙黄1
+        zh: 魔理沙黄1
+        ru: Marisa Y1
+        de: Marisa Y1
+        es: Marisa Y1
+      marisa_y2:
+        en: Marisa Y2
+        ja: 魔理沙黄2
+        zh: 魔理沙黄2
+        ru: Marisa Y2
+        de: Marisa Y2
+        es: Marisa Y2
+      marisa_g1:
+        en: Marisa G1
+        ja: 魔理沙緑1
+        zh: 魔理沙绿1
+        ru: Marisa G1
+        de: Marisa G1
+        es: Marisa G1
+      marisa_g2:
+        en: Marisa G2
+        ja: 魔理沙緑2
+        zh: 魔理沙绿2
+        ru: Marisa G2
+        de: Marisa G2
+        es: Marisa G2
+game_options:
+  th20:
+    incident_stones:
+      scarlet_devil:
+        en: Scarlet Devil
+        ja: スカーレットデビル
+        zh: 绯红恶魔
+        ru: Scarlet Devil
+        de: Scarlet Devil
+        es: Scarlet Devil
+      creature_red:
+        en: Creature Red
+        ja: クリーチャーレッド
+        zh: 生物赤红
+        ru: Creature Red
+        de: Creature Red
+        es: Creature Red
+      snow_blossom:
+        en: Snow Blossom
+        ja: スノーブロッサム
+        zh: 雪中花
+        ru: Snow Blossom
+        de: Snow Blossom
+        es: Snow Blossom
+      blue_season:
+        en: Blue Season
+        ja: ブルーシーズン
+        zh: 蓝色季节
+        ru: Blue Season
+        de: Blue Season
+        es: Blue Season
+      yellow_subterranean:
+        en: Yellow Subterranean
+        ja: イエローサブテレイニアン
+        zh: 黄色地心
+        ru: Yellow Subterranean
+        de: Yellow Subterranean
+        es: Yellow Subterranean
+      imperishable_moon:
+        en: Imperishable Moon
+        ja: インペリシャブルムーン
+        zh: 不朽明月
+        ru: Imperishable Moon
+        de: Imperishable Moon
+        es: Imperishable Moon
+      beast_hardiness:
+        en: Beast Hardiness
+        ja: ビーストハーディネス
+        zh: 兽之刚强
+        ru: Beast Hardiness
+        de: Beast Hardiness
+        es: Beast Hardiness
+      shintoism_wind:
+        en: Shintoism Wind
+        ja: シントイズムウィンド
+        zh: 神道之风
+        ru: Shintoism Wind
+        de: Shintoism Wind
+        es: Shintoism Wind

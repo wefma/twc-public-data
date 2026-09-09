@@ -1,0 +1,111 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/wefma/twc-public-data/blob/main/games.schema.json",
+  "title": "Touhou game definitions",
+  "type": "object",
+  "required": [
+    "games"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "games": {
+      "type": "object",
+      "patternProperties": {
+        "^th(?:0[6-9]|1[0-9]|20)$": {
+          "type": "object",
+          "required": [
+            "color",
+            "title",
+            "short_title",
+            "shots"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "color": {
+              "type": "string",
+              "pattern": "^#[0-9A-Fa-f]{6}$"
+            },
+            "title": {
+              "$ref": "#/$defs/localizedText"
+            },
+            "short_title": {
+              "$ref": "#/$defs/localizedText"
+            },
+            "shots": {
+              "type": "object",
+              "minProperties": 1,
+              "patternProperties": {
+                "^[a-z][a-z0-9_]*$": {
+                  "$ref": "#/$defs/localizedText"
+                }
+              },
+              "additionalProperties": false
+            }
+          }
+        }
+      },
+      "additionalProperties": false
+    },
+    "game_options": {
+      "type": "object",
+      "patternProperties": {
+        "^th(?:0[6-9]|1[0-9]|20)$": {
+          "type": "object",
+          "patternProperties": {
+            "^[a-z][a-z0-9_]*$": {
+              "type": "object",
+              "patternProperties": {
+                "^[a-z][a-z0-9_]*$": {
+                  "$ref": "#/$defs/localizedText"
+                }
+              },
+              "additionalProperties": false
+            }
+          },
+          "additionalProperties": false
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+  "$defs": {
+    "localizedText": {
+      "type": "object",
+      "required": [
+        "en",
+        "ja",
+        "zh",
+        "ru",
+        "de",
+        "es"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "en": {
+          "type": "string",
+          "minLength": 1
+        },
+        "ja": {
+          "type": "string",
+          "minLength": 1
+        },
+        "zh": {
+          "type": "string",
+          "minLength": 1
+        },
+        "ru": {
+          "type": "string",
+          "minLength": 1
+        },
+        "de": {
+          "type": "string",
+          "minLength": 1
+        },
+        "es": {
+          "type": "string",
+          "minLength": 1
+        }
+      }
+    }
+  }
+}

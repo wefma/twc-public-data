@@ -1,0 +1,28 @@
+name: Validate game definitions
+
+on:
+  push:
+    paths:
+      - games.yml
+      - games.schema.json
+      - scripts/validate_games.py
+      - .github/workflows/validate-games.yml
+  pull_request:
+    paths:
+      - games.yml
+      - games.schema.json
+      - scripts/validate_games.py
+      - .github/workflows/validate-games.yml
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install validation dependencies
+        run: python -m pip install --disable-pip-version-check PyYAML jsonschema
+      - name: Validate games.yml
+        run: python scripts/validate_games.py
