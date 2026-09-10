@@ -551,6 +551,43 @@ games:
         ru: Sanae B
         de: Sanae B
         es: Sanae B
+  th128:
+    color: '#00C8C8'
+    divisions:
+      lunatic:
+        - scoring
+        - survival
+      extra:
+        - scoring
+    routes:
+      - a1
+      - a2
+      - b1
+      - b2
+      - c1
+      - c2
+    title:
+      en: Great Fairy Wars
+      ja: 妖精大戦争
+      zh: 妖精大战争
+      ru: Великая война фей
+      de: Großer Feenkrieg
+      es: La Gran Guerra de las Hadas
+    short_title:
+      en: GFW
+      ja: 大
+      zh: 大
+      ru: GFW
+      de: GFW
+      es: GFW
+    shots:
+      cirno:
+        en: Cirno
+        ja: チルノ
+        zh: 琪露諾
+        ru: Cirno
+        de: Cirno
+        es: Cirno
   th13:
     color: '#A474C1'
     divisions:
