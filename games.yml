@@ -839,112 +839,112 @@ games:
       de: FW
       es: FW
     shots:
-      reimu_r1:
+      reimu_red1:
         en: Reimu R1
         ja: 霊夢赤1
         zh: 灵梦红1
         ru: Reimu R1
         de: Reimu R1
         es: Reimu R1
-      reimu_r2:
+      reimu_red2:
         en: Reimu R2
         ja: 霊夢赤2
         zh: 灵梦红2
         ru: Reimu R2
         de: Reimu R2
         es: Reimu R2
-      reimu_b1:
+      reimu_blue1:
         en: Reimu B1
         ja: 霊夢青1
         zh: 灵梦蓝1
         ru: Reimu B1
         de: Reimu B1
         es: Reimu B1
-      reimu_b2:
+      reimu_blue2:
         en: Reimu B2
         ja: 霊夢青2
         zh: 灵梦蓝2
         ru: Reimu B2
         de: Reimu B2
         es: Reimu B2
-      reimu_y1:
+      reimu_yellow1:
         en: Reimu Y1
         ja: 霊夢黄1
         zh: 灵梦黄1
         ru: Reimu Y1
         de: Reimu Y1
         es: Reimu Y1
-      reimu_y2:
+      reimu_yellow2:
         en: Reimu Y2
         ja: 霊夢黄2
         zh: 灵梦黄2
         ru: Reimu Y2
         de: Reimu Y2
         es: Reimu Y2
-      reimu_g1:
+      reimu_green1:
         en: Reimu G1
         ja: 霊夢緑1
         zh: 灵梦绿1
         ru: Reimu G1
         de: Reimu G1
         es: Reimu G1
-      reimu_g2:
+      reimu_green2:
         en: Reimu G2
         ja: 霊夢緑2
         zh: 灵梦绿2
         ru: Reimu G2
         de: Reimu G2
         es: Reimu G2
-      marisa_r1:
+      marisa_red1:
         en: Marisa R1
         ja: 魔理沙赤1
         zh: 魔理沙红1
         ru: Marisa R1
         de: Marisa R1
         es: Marisa R1
-      marisa_r2:
+      marisa_red2:
         en: Marisa R2
         ja: 魔理沙赤2
         zh: 魔理沙红2
         ru: Marisa R2
         de: Marisa R2
         es: Marisa R2
-      marisa_b1:
+      marisa_blue1:
         en: Marisa B1
         ja: 魔理沙青1
         zh: 魔理沙蓝1
         ru: Marisa B1
         de: Marisa B1
         es: Marisa B1
-      marisa_b2:
+      marisa_blue2:
         en: Marisas B2
         ja: Marisa青2
         zh: 魔理沙蓝2
         ru: Marisa B2
         de: Marisa B2
         es: Marisa B2
-      marisa_y1:
+      marisa_yellow1:
         en: Marisa Y1
         ja: 魔理沙黄1
         zh: 魔理沙黄1
         ru: Marisa Y1
         de: Marisa Y1
         es: Marisa Y1
-      marisa_y2:
+      marisa_yellow2:
         en: Marisa Y2
         ja: 魔理沙黄2
         zh: 魔理沙黄2
         ru: Marisa Y2
         de: Marisa Y2
         es: Marisa Y2
-      marisa_g1:
+      marisa_green1:
         en: Marisa G1
         ja: 魔理沙緑1
         zh: 魔理沙绿1
         ru: Marisa G1
         de: Marisa G1
         es: Marisa G1
-      marisa_g2:
+      marisa_green2:
         en: Marisa G2
         ja: 魔理沙緑2
         zh: 魔理沙绿2
