@@ -48,6 +48,19 @@
                 }
               }
             },
+            "routes": {
+              "type": "object",
+              "minProperties": 1,
+              "additionalProperties": false,
+              "properties": {
+                "lunatic": {
+                  "$ref": "#/$defs/routeNames"
+                },
+                "extra": {
+                  "$ref": "#/$defs/routeNames"
+                }
+              }
+            },
             "shots": {
               "type": "object",
               "minProperties": 1,
@@ -93,6 +106,15 @@
       "items": {
         "type": "string",
         "enum": ["scoring", "survival"]
+      }
+    },
+    "routeNames": {
+      "type": "array",
+      "minItems": 1,
+      "uniqueItems": true,
+      "items": {
+        "type": "string",
+        "minLength": 1
       }
     },
     "localizedText": {

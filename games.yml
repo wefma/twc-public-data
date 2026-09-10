@@ -125,6 +125,10 @@ games:
         - survival
       extra:
         - scoring
+    routes:
+      lunatic:
+        - a
+        - b
     title:
       en: Imperishable Night
       ja: 東方永夜抄
