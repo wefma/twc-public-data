@@ -17,6 +17,7 @@
             "color",
             "title",
             "short_title",
+            "divisions",
             "shots"
           ],
           "additionalProperties": false,
@@ -30,6 +31,22 @@
             },
             "short_title": {
               "$ref": "#/$defs/localizedText"
+            },
+            "divisions": {
+              "type": "object",
+              "minProperties": 1,
+              "additionalProperties": false,
+              "properties": {
+                "lunatic": {
+                  "$ref": "#/$defs/divisionTypes"
+                },
+                "extra": {
+                  "$ref": "#/$defs/divisionTypes"
+                },
+                "phantasm": {
+                  "$ref": "#/$defs/divisionTypes"
+                }
+              }
             },
             "shots": {
               "type": "object",
@@ -69,6 +86,15 @@
     }
   },
   "$defs": {
+    "divisionTypes": {
+      "type": "array",
+      "minItems": 1,
+      "uniqueItems": true,
+      "items": {
+        "type": "string",
+        "enum": ["scoring", "survival"]
+      }
+    },
     "localizedText": {
       "type": "object",
       "required": [

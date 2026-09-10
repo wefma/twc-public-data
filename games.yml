@@ -1,6 +1,12 @@
 games:
   th06:
     color: '#FF191B'
+    divisions:
+      lunatic:
+        - scoring
+        - survival
+      extra:
+        - scoring
     title:
       en: the Embodiment of Scarlet Devil
       ja: 東方紅魔郷
@@ -46,6 +52,14 @@ games:
         es: Marisa B
   th07:
     color: '#5BBE9A'
+    divisions:
+      lunatic:
+        - scoring
+        - survival
+      extra:
+        - scoring
+      phantasm:
+        - scoring
     title:
       en: Perfect Cherry Blossom
       ja: 東方妖々夢
@@ -105,6 +119,12 @@ games:
         es: Sakuya B
   th08:
     color: '#6A4C93'
+    divisions:
+      lunatic:
+        - scoring
+        - survival
+      extra:
+        - scoring
     title:
       en: Imperishable Night
       ja: 東方永夜抄
@@ -206,6 +226,12 @@ games:
         es: Yuyuko
   th09:
     color: '#E75A7C'
+    divisions:
+      lunatic:
+        - scoring
+        - survival
+      extra:
+        - scoring
     title:
       en: Phantasmagoria of Flower View
       ja: 東方花映塚
@@ -314,6 +340,12 @@ games:
         es: Eiki
   th10:
     color: '#3E8E41'
+    divisions:
+      lunatic:
+        - scoring
+        - survival
+      extra:
+        - scoring
     title:
       en: Mountain of Faith
       ja: 東方風神録
@@ -373,6 +405,12 @@ games:
         es: Marisa C
   th11:
     color: '#B04A3A'
+    divisions:
+      lunatic:
+        - scoring
+        - survival
+      extra:
+        - scoring
     title:
       en: Subterranean Animism
       ja: 東方地霊殿
@@ -432,6 +470,12 @@ games:
         es: Marisa C
   th12:
     color: '#437FC7'
+    divisions:
+      lunatic:
+        - scoring
+        - survival
+      extra:
+        - scoring
     title:
       en: Undefined Fantastic Object
       ja: 東方星蓮船
@@ -505,6 +549,12 @@ games:
         es: Sanae B
   th13:
     color: '#A474C1'
+    divisions:
+      lunatic:
+        - scoring
+        - survival
+      extra:
+        - scoring
     title:
       en: Ten Desires
       ja: 東方神霊廟
@@ -550,6 +600,12 @@ games:
         es: Youmu
   th14:
     color: '#D8483E'
+    divisions:
+      lunatic:
+        - scoring
+        - survival
+      extra:
+        - scoring
     title:
       en: Double Dealing Character
       ja: 東方輝針城
@@ -609,6 +665,12 @@ games:
         es: Sakuya B
   th15:
     color: '#2E5AA7'
+    divisions:
+      lunatic:
+        - scoring
+        - survival
+      extra:
+        - scoring
     title:
       en: Legacy of Lunatic Kingdom
       ja: 東方紺珠伝
@@ -654,6 +716,12 @@ games:
         es: Reisen
   th16:
     color: '#E6A52E'
+    divisions:
+      lunatic:
+        - scoring
+        - survival
+      extra:
+        - scoring
     title:
       en: Hidden Star in Four Seasons
       ja: 東方天空璋
@@ -699,6 +767,12 @@ games:
         es: Marisa
   th17:
     color: '#8054A5'
+    divisions:
+      lunatic:
+        - scoring
+        - survival
+      extra:
+        - scoring
     title:
       en: Wily Beast and Weakest Creature
       ja: 東方鬼形獣
@@ -779,6 +853,12 @@ games:
         es: Youmu Eagle
   th18:
     color: '#D7A928'
+    divisions:
+      lunatic:
+        - scoring
+        - survival
+      extra:
+        - scoring
     title:
       en: Unconnected Marketeers
       ja: 東方虹龍洞
@@ -824,6 +904,12 @@ games:
         es: Sakuya
   th20:
     color: '#6C9ED4'
+    divisions:
+      lunatic:
+        - scoring
+        - survival
+      extra:
+        - scoring
     title:
       en: Fossilized Wonders
       ja: 東方錦上京
