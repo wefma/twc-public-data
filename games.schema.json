@@ -11,7 +11,7 @@
     "games": {
       "type": "object",
       "patternProperties": {
-        "^th(?:0[6-9]|1[0-9]|20)$": {
+        ".*": {
           "type": "object",
           "required": [
             "color",
@@ -79,7 +79,7 @@
     "game_options": {
       "type": "object",
       "patternProperties": {
-        "^th(?:0[6-9]|1[0-9]|20)$": {
+        ".*": {
           "type": "object",
           "patternProperties": {
             "^[a-z][a-z0-9_]*$": {
