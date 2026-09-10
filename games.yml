@@ -943,6 +943,159 @@ games:
         ru: Sakuya
         de: Sakuya
         es: Sakuya
+  th19:
+    color: '#F0E68C'
+    divisions:
+      lunatic:
+        - survival
+    title:
+      en: Unfinished Dream of All Living Ghost
+      ja: 東方獣王園
+      zh: 东方兽王园
+      ru: Незаконченная мечта всех живых призраков
+      de: Unvollendeter Traum aller lebenden Geister
+      es: Sueño inacabado de todos los fantasmas vivientes
+    short_title:
+      en: UDoALG
+      ja: 獣
+      zh: 兽
+      ru: UDoALG
+      de: UDoALG
+      es: UDoALG
+    shots:
+      reimu:
+        en: Reimu
+        ja: 霊夢
+        zh: 灵梦
+        ru: Reimu
+        de: Reimu
+        es: Reimu
+      marisa:
+        en: Marisa
+        ja: 魔理沙
+        zh: 魔理沙
+        ru: Marisa
+        de: Marisa
+        es: Marisa
+      sanae:
+        en: Sanae
+        ja: 早苗
+        zh: 早苗
+        ru: Sanae
+        de: Sanae
+        es: Sanae
+      ran:
+        en: Ran
+        ja: 藍
+        zh: 蓝
+        ru: Ran
+        de: Ran
+        es: Ran
+      aunn:
+        en: Aunn
+        ja: あうん
+        zh: 阿吽
+        ru: Aunn
+        de: Aunn
+        es: Aunn
+      nazrin:
+        en: Nazrin
+        ja: ナズーリン
+        zh: 娜兹玲
+        ru: Nazrin
+        de: Nazrin
+        es: Nazrin
+      seiran:
+        en: Seiran
+        ja: 清蘭
+        zh: 清兰
+        ru: Seiran
+        de: Seiran
+        es: Seiran
+      rin:
+        en: Rin
+        ja: 燐
+        zh: 燐
+        ru: Rin
+        de: Rin
+        es: Rin
+      tsukasa:
+        en: Tsukasa
+        ja: 典
+        zh: 典
+        ru: Tsukasa
+        de: Tsukasa
+        es: Tsukasa
+      mamizou:
+        en: Mamizou
+        ja: マミゾウ
+        zh: 二岩猯藏
+        ru: Mamizou
+        de: Mamizou
+        es: Mamizou
+      yachie:
+        en: Yachie
+        ja: 八千慧
+        zh: 吉吊八千慧
+        ru: Yachie
+        de: Yachie
+        es: Yachie
+      saki:
+        en: Saki
+        ja: 早鬼
+        zh: 骊驹早鬼
+        ru: Saki
+        de: Saki
+        es: Saki
+      yuuma:
+        en: Yuuma
+        ja: 尤魔
+        zh: 饕餮尤魔
+        ru: Yuuma
+        de: Yuuma
+        es: Yuuma
+      suika:
+        en: Suika
+        ja: 萃香
+        zh: 伊吹萃香
+        ru: Suika
+        de: Suika
+        es: Suika
+      biten:
+        en: Biten
+        ja: 美天
+        zh: 孙美天
+        ru: Biten
+        de: Biten
+        es: Biten
+      enoko:
+        en: Enoko
+        ja: 慧ノ子
+        zh: 三头慧之子
+        ru: Enoko
+        de: Enoko
+        es: Enoko
+      chiyari:
+        en: Chiyari
+        ja: ちやり
+        zh: 天火人血枪
+        ru: Chiyari
+        de: Chiyari
+        es: Chiyari
+      hisami:
+        en: Hisami
+        ja: 日狭美
+        zh: 豫母都日狭美
+        ru: Hisami
+        de: Hisami
+        es: Hisami
+      zanmu:
+        en: Zanmu
+        ja: 残無
+        zh: 日白残无
+        ru: Zanmu
+        de: Zanmu
+        es: Zanmu
   th20:
     color: '#6C9ED4'
     divisions:
