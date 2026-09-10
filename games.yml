@@ -560,12 +560,13 @@ games:
       extra:
         - scoring
     routes:
-      - a1
-      - a2
-      - b1
-      - b2
-      - c1
-      - c2
+      lunatic:
+        - a1
+        - a2
+        - b1
+        - b2
+        - c1
+        - c2
     title:
       en: Great Fairy Wars
       ja: 妖精大戦争
